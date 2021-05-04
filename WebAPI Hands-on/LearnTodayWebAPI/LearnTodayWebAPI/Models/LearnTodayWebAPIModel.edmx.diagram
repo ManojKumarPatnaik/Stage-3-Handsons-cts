@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8005d3d967c84ad1a6897a7624979b03" Name="Diagram1">
+        <EntityTypeShape EntityType="LearnTodayWebAPIModel.Course" Width="1.5" PointX="1.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="LearnTodayWebAPIModel.Student" Width="1.5" PointX="5.25" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="LearnTodayWebAPIModel.Trainer" Width="1.5" PointX="3.375" PointY="4.25" IsExpanded="true" />
+        <AssociationConnector Association="LearnTodayWebAPIModel.FK__Student__CourseI__267ABA7A" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

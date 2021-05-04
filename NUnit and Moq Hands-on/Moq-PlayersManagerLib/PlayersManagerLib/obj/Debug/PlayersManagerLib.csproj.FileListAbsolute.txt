@@ -1,0 +1,12 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3_PlayersManagerLib\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3_PlayersManagerLib\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3_PlayersManagerLib\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3_PlayersManagerLib\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3_PlayersManagerLib\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3_PlayersManagerLib\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3\MOQ_HandsOn3_PlayersManagerLib\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3\MOQ_HandsOn3_PlayersManagerLib\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3\MOQ_HandsOn3_PlayersManagerLib\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csprojAssemblyReference.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3\MOQ_HandsOn3_PlayersManagerLib\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3\MOQ_HandsOn3_PlayersManagerLib\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3\MOQ_HandsOn3_PlayersManagerLib\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb

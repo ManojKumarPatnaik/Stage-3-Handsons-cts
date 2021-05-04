@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://unpkg.com/gijgo@1.9.13/js/gijgo.min.js" type="text/javascript"></script>
+    <link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css" />
+    <title>Employee Details</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+        <a class="navbar-brand" href="#">Payroll</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Goals</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container-fluid">
+        <h3>New Employee</h3>
+        <form>
+            <div class="form-row">
+                <div class="col-md">
+                    <div class="form-group">
+                        <label for="fname">First Name</label>
+                        <input type="text" class="form-control" id="fname" required>
+                    </div>
+
+                </div>
+                <div class="col-md">
+                    <div class="form-group">
+                        <label for="mname">Middle Name</label>
+                        <input type="text" class="form-control" id="mname">
+                    </div>
+
+                </div>
+                <div class="col-md">
+                    <div class="form-group">
+                        <label for="lname">Last Name</label>
+                        <input type="text" class="form-control" id="lname" required>
+                    </div>
+
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="col-md">
+                    <div class="form-group">
+                        <label for="addr1">Address Line 1</label>
+                        <input type="text" class="form-control" id="addr1" required>
+                    </div>
+
+                </div>
+                <div class="col-md">
+                    <div class="form-group">
+                        <label for="addr2">Address Line 2</label>
+                        <input type="text" class="form-control" id="addr2">
+                    </div>
+
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" class="form-control" id="email"
+                            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,63}$" required>
+                    </div>
+
+                </div>
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label for="pwd">Password</label>
+                        <input type="password" class="form-control" id="pwd" required>
+                    </div>
+
+                </div>
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label for="cpwd">Confirm Password</label>
+                        <input type="password" class="form-control" id="cpwd" required>
+                    </div>
+
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="col-md">
+                    <div class="form-group">
+                        <label for="dept">Department</label>
+                        <select class="form-control" id="dept">
+                            <option>CDE</option>
+                            <option>ADM</option>
+                            <option>CDB</option>
+                            <option>ESA</option>
+                        </select>
+                    </div>
+
+                </div>
+                <div class="col-md">
+                    <div class="form-group">
+                        <label for="dept">Date of Birth</label>
+                        <input id="datepicker" type="text" class="form-control" />
+                        <script>
+                            $('#datepicker').datepicker({
+                                uiLibrary: 'bootstrap4'
+                            });
+                        </script>
+                    </div>
+
+                </div>
+                <div class="col-md">
+                    <label>Gender</label><br>
+                    <div class="form-check-inline">
+                        <label class="form-check-label">
+                            <input type="radio" class="form-check-input" name="optradio">Male
+                        </label>
+                    </div>
+                    <div class="form-check-inline">
+                        <label class="form-check-label">
+                            <input type="radio" class="form-check-input" name="optradio">Female
+                        </label>
+                    </div>
+                </div>
+                <div class="col-md">
+
+                    <br>
+                    <div class="form-check">
+                        <label class="form-check-label">
+                            <input type="checkbox" class="form-check-input" name="prmnt">Permanent
+                        </label>
+                    </div>
+
+                </div>
+            </div>
+            <div class="form-row">
+
+                <div class="col-md-1">
+                    <button type="submit" class="btn btn-success">Save</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

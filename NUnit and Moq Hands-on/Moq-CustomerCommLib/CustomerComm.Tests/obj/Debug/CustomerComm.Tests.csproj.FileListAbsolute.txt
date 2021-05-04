@@ -1,0 +1,1 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3_CustomerCommLib\CustomerComm.Tests\obj\Debug\CustomerComm.Tests.csproj.CoreCompileInputs.cache

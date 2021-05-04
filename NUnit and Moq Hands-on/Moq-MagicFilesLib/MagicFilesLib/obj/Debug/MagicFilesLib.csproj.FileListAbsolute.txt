@@ -1,0 +1,6 @@
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3_MagicFilesLib\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3_MagicFilesLib\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3_MagicFilesLib\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3_MagicFilesLib\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.dll
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3_MagicFilesLib\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.pdb
+C:\Users\890405\source\repos\Stage3\HandsOn\MOQ_HandsOn3_MagicFilesLib\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csprojAssemblyReference.cache

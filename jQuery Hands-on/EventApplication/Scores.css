@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+table {
+  background-color:#E8DCFF;
+  border-collapse: collapse;
+}
+
+table td {
+  /* to display as per the doc apply the following styles*/
+  border: 1px solid black;
+  padding: 0 10px;
+}
+
+input {
+  background-color: #FEFFB0;
+  font-weight: bold;
+  text-align: right;
+}
+
+#sumLabel,
+#sumValue {
+  color: #174C68;
+  font-weight: bold;
+  font-size: 18px;
+  /* to display as per the doc apply the text-align center*/
+  text-align: center;
+}
