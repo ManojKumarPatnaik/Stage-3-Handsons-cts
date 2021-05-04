@@ -1,0 +1,29 @@
+.v1
+{
+    margin-left: 700px;
+    margin-top: 100px;
+    position: absolute;
+    padding-left: 50px;
+    border-left: 6px solid green;
+    height: 400px;
+}
+.st2
+{
+    margin-left: 350px;
+    margin-top: 100px;
+    padding-left: 50px;
+    position: absolute;
+    position: 50px;
+    border-left: 6px solid green;
+    height: 400px;
+}
+.mystyle1
+{
+    margin-left: 50px;
+    margin-top: 100px;
+    position: absolute;
+    padding-left: 50px;
+    position: 50px;
+    border-left: 6px solid green;
+    height: 400px;
+}
